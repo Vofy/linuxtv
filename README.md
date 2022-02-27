@@ -8,6 +8,7 @@ cd media_build
 sudo make install
 ```
 3. Povolení modulu `modprobe dvb-usb-rtl28xxu`
+4. VDR
 
 ## Debugging
 ### Vypsání načtených modulů
